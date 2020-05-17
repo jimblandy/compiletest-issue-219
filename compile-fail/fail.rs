@@ -1,0 +1,2 @@
+fn bogus(]
+//~^ ERROR: slurve
